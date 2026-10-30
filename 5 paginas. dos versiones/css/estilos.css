@@ -1,0 +1,42 @@
+
+body {
+    text-align: center;
+    background-image: url("../images/fondo.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    overflow: hidden;
+    font-family: "Roboto", sans-serif;
+}
+
+h1 {
+    background-color: #c5c8ca;
+    color: white;
+    border-left: 12px solid tomato;
+}
+
+img {
+    width: 600px;
+    height: 450px;
+    border: 5px solid black;
+    border-radius: 15px;
+    box-shadow: 5px 5px 5px black;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    display: inline;
+    border: 1px solid black;
+    padding: 3px;
+}
+#content {
+    text-align: center;
+}
+
+a {
+    color: blue;
+}
